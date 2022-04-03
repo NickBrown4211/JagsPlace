@@ -6,8 +6,8 @@
 // @author       Purpose
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://github.com/kylomorales/rocketleagueplace/raw/main/egg_people_unite_overlay.user.js
-// @downloadURL  https://github.com/kylomorales/rocketleagueplace/raw/main/egg_people_unite_overlay.user.js
+// @updateURL    https://github.com/NickBrown4211/JagsPlace/raw/main/jags_place_overlay.user.js
+// @downloadURL  https://github.com/NickBrown4211/JagsPlace/raw/main/jags_place_overlay.user.js
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self) {
